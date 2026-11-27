@@ -1,11 +1,13 @@
-Evidencia: GA7-220501096-AA5-EV01 — Diseño y desarrollo de servicios web - caso
+Evidencia: GA9-220501096-AA3-EV02 — Reporte de plan de pruebas ejecutadas
 
-Aprendiz: Ronald Fabian Mendoza Rodriguez
+Aprendiz: Ronald Fabian Mendoza Rodriguez, Juan Sebastián Ávila.
 
 Ficha: ADSO 3235898
 
 Programa: Tecnólogo en Análisis y Desarrollo de Software
 
-Repositorio GitHub: GA7-220501096-AA5-EV01-Servicio-Autenticación
+Perfil GitHub: https://github.com/rmendozar1978
 
-URL del repositorio: https://github.com/rmendozar1978/GA7-220501096-AA5-EV01-Servicio-Autenticacion
+Repositorio Base (Servicio Autenticación): https://github.com/rmendozar1978/GA7-220501096-AA5-EV01-Servicio-Autenticacion
+
+Repositorio Evidencia GA9-AA3-EV02: https://github.com/rmendozar1978/GA9-220501096-AA3-EV02-Reporte-Plan-Pruebas-Ejecutadas
